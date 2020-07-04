@@ -1,0 +1,52 @@
+
+
+body {
+    font-family: Helvetica;
+    border: red solid 2px;
+    padding: 5px;
+}
+
+header {
+    background-image: url(image1.jpeg);
+    text-align: center;
+}
+
+header h1 {
+    font-size: 100px;
+    color: khaki;
+    font-weight: bold;
+}
+
+.brushes {
+    background-color: mediumspringgreen;
+    
+
+}
+
+.brushes h2 {
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+
+}
+
+span {
+    color: blue;
+    font-weight: bold;
+}
+
+.frames h2, .paint h2 {
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+
+}
+
+.frames {
+    background-color: lightcoral;
+}
+
+.paint {
+    background-color: skyblue;
+}
+
